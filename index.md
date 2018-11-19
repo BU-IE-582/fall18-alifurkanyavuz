@@ -7,3 +7,6 @@
 
 ## Week 2
 [Here](files/HW2.html) is my Homework 2
+
+## Week 3
+[Here](files/HW3.html) is my Homework 3
